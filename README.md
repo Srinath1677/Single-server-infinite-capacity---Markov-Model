@@ -1,5 +1,10 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
-## Aim :
+# Ex no 4
+# Date:
+# Name:YG Srinath 
+# Register.no:24900665
+
+# Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
 ## Software required :
